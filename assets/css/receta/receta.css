@@ -1,0 +1,10 @@
+.receta{
+width: 300px;
+text-align: center;
+margin: 1.5rem;
+background-color: #fefefe;
+}
+
+.receta h4{
+    font-size: 1.5rem;
+}

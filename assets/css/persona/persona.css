@@ -1,0 +1,24 @@
+.persona{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 1200px;    
+    align-items: center;
+}
+
+.persona p{
+    font-size: 1.25rem;
+    color: rgb(130, 130, 130);
+    margin: 0.5rem;
+}
+/**/
+
+
+@media screen and (min-width:1024px) {
+    .persona{
+        height: 500px;
+        flex-direction: row;        
+        width: 1000px;
+    }
+    
+}

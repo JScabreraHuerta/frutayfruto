@@ -1,0 +1,8 @@
+.footer__redes{
+    display: flex;
+    list-style: none;   
+}
+
+.footer__redes li{
+    margin-left: 1rem;   
+}

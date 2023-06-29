@@ -1,0 +1,12 @@
+.menu__enlace{    
+    text-decoration: none;
+    color: #808080;
+}
+
+.menu__enlace:hover{    
+    text-decoration:underline;
+}
+
+.menu__enlace.resaltado{
+    color: #222222;
+}
